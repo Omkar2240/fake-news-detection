@@ -71,8 +71,9 @@ pip install scikit-learn pandas joblib
 ```bash
 cd ../backend
 npm install
-npm start
+npm run dev
 ```
+- Make sure you activate the virtual environment, and after that run the server.
 
 Server runs on: `http://localhost:8000`
 
@@ -83,7 +84,7 @@ Server runs on: `http://localhost:8000`
 ```bash
 cd ../frontend
 npm install
-npm start
+npm run dev
 ```
 
 App runs on: `http://localhost:3000`
