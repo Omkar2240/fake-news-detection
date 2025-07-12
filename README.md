@@ -58,7 +58,7 @@ cd fake-news-detection
 ### 🧪 2. Install Python Dependencies
 
 ```bash
-cd ml
+cd frontend
 pip install scikit-learn pandas joblib
 ```
 
